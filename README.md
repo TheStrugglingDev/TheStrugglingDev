@@ -10,6 +10,7 @@ Currently learning Java, Spring Boot, APIs, databases, Linux, servers… and how
 
 ## 📺 Find Me on YouTube
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe%20🡆-The%20Struggling%20Dev-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TheStruggleDev)
+[![Instagram](https://img.shields.io/badge/Instagram-@thestrugglingdev_-purple?logo=instagram&logoColor=white)](https://www.instagram.com/thestrugglingdev_/)
 
 ## 🚀 What I’m Working On
 - Learning **Java** & **Spring Boot**
